@@ -1,0 +1,32 @@
+# Keil 编译输出
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.iex
+*.sct
+*.build_log.htm
+*.__i
+
+# Keil 个人界面配置与调试日志
+*.uvguix.*
+JLinkLog.txt
+JLinkSettings.ini
+
+# IDE / 编辑器日志
+*.log
+*.lock
+.screenshots/
+
+# 本地工具与临时目录
+_tools/
+tmp/
