@@ -3,6 +3,7 @@
 # RTOS-STM32-K230-Car
 
 ### 功能:五路循迹、避障停止、k230神经网络训练识别物块、机械臂抓取物块、二维码识别停止。
+### 视频链接:【基于RTOS的智能小车】 https://www.bilibili.com/video/BV1HzsE69EsD/?share_source=copy_web&vd_source=bca16ed409e00bf0aaf06bd9f30b66f4
 ### 目录
 - [0. 这份文档怎么读](#0-这份文档怎么读)
 - [1. 代码逻辑总览](#1-代码逻辑总览)
